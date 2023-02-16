@@ -7,16 +7,19 @@
 
    section#login{
       width: 80vw;
+      height: 280px;
    }
 
    section#login > div#image{
       width: 30%;
       height: 100%;
+
       float: left;
    }
 
    section#login > div#form{
       width: 70%;
+
       float: right;
    }
 }
@@ -28,11 +31,13 @@
 
    section#login {
       width: 950px;
+      height: 350px;
    }
 
    section#login > div#image{
       width: 50%;
       height: 100%;
+      
       float: right;
    }
 
@@ -46,6 +51,7 @@
    }
 
    div#form > p{
-      font-size: 1.2em;
+      font-size: 1em;
+      margin: 20px 0;
    }
 }
